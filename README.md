@@ -1,3 +1,3 @@
 # Create Dynamic Alert Component  
-## Using  React + TypeScript + SCSS
-# TO Run Code => npm i && npm run dev
+## Using  React + TypeScript + Sass
+### TO Run Code => npm i && npm run dev
